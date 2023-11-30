@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Gestion de données
+pandas==1.3.3
+numpy==1.21.2
+
+# Interaction avec des fichiers
+openpyxl==3.0.14
+
+# Gestion de l'interface utilisateur en ligne de commande
+click==8.0.1
+
+# Gestion des dates
+python-dateutil==2.8.2
+
+# Gestion des environnements virtuels (si vous en utilisez un)
+virtualenv==20.10.0
