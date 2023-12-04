@@ -1,0 +1,13 @@
+{
+    "missions": "Développer des applications web",
+    "conditions_travail": "En équipe",
+    "competences_recherchees": "Python, Django, HTML, CSS",
+    "diplome_requis": true,
+    "diplomes_acceptables": ["Bac+3", "Bac+5"],
+    "experience_min": 2,
+    "delai_prise_fonction": "Immédiat",
+    "salaire_estime": 50000,
+    "avantages_entreprise": "Assurance santé, télétravail",
+    "avantages_poste": "Bureau équipé, formation continue"
+  }
+  
