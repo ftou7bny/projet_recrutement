@@ -1,0 +1,11 @@
+Mots clés de l'annonce : dev 
+Missions : Gérer les projets informatiques
+Conditions de travail : En équipe, sédentaire
+Compétences recherchées : Maîtrise de Python, expérience avec Django
+Diplôme requis : True
+Diplômes acceptables : diplomes_acceptables": "Licence en informatique
+Expérience minimale requise : 2
+Délai de prise de fonction : Immédiat
+Salaire estimé : 50000
+Avantages de l'entreprise : Assurance santé, formation continue
+Avantages du poste : Télétravail occasionnel

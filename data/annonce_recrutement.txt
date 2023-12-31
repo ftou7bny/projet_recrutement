@@ -1,5 +1,0 @@
-L'entreprise XYZ recherche un nouveau membre pour rejoindre notre équipe !
-
-... (Reste du contenu de la fonction rediger_annonce)
-
-Pour postuler, envoyez votre CV et votre lettre de motivation à [adresse_email@example.com].
